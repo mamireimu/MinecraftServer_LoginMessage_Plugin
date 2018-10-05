@@ -1,0 +1,13 @@
+## YAML Template.
+---
+name: MinecraftServer_Post_Plugin
+version: 0.3
+description: test plugin.
+author: mamireimu
+website: mamireimuserver.com
+#---
+main: com.mamisaba.tuuti_plugin.MamireimuServer_Post_Plugin
+permissions:
+   tuuti.kengaku:
+        description: no description
+        default: false
